@@ -283,7 +283,7 @@ body {
     width: auto;
     min-height: 40vh;
     max-height: 70vh;
-    min-width: 30vh;
+    min-width: 30%;
     max-width: 40%;
     float: left;
 }
