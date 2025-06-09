@@ -1,7 +1,7 @@
 /* Estilo general para el header */
 
 header {
-    background: #000000;
+    background: color #000000;
     padding: 20px 15px;
     display: flex;
     align-items: center;
