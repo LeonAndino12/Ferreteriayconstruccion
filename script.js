@@ -23,21 +23,21 @@
 
             { name: 'ESMALTE SINTETICO <br><br> $55.000', category: 'Pintura', image: 'https://tersuave.com.ar/wp-content/uploads/sites/2/2024/11/TERSILUX-ESMALTE-SINTETICO-3en1-SATINADO.png' },
             { name: 'LATEX INTERIOR-EXTERIOR <br><br> $55.000', category: 'Pintura', image: 'LATEX-RIOBRA.JPG' },
-            { name: 'POLAR COLOR <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-latex-color.jpg' },
-            { name: 'POLAR INTERIOR MATE <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-interior-nuevo.png'},
-            { name: 'POLAR SATINADO BLANCO <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-satinado-nuevo.png'},
-            { name: 'POLAR INTERIOR-EXTERIOR <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-interior-exterior-nuevo.png'},
-            { name: 'POLAR CIELO RAZOS <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-cielorasos-nuevo.png'},
-            { name: 'POLAR FRENTES <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-exterior-nuevo.png'},
-            { name: 'POLAR FLEX MUROS Y FRENTES <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-flex-muros-y-frentes.jpg'},
-            { name: 'POLAR FLEX MUROS Y FRENTES POLIURETANICO <br><br> $55.000', category: 'Pintura', image: 'https://sanyojafep.com/imgs/polar-flex-muros-y-frentes-poliuretanico.jpg'},
-            { name: 'POLAR FLEX MEMBRANA LIQUIDA <br><br> $55.000', category: 'Pintura', image: 'https://sanyojafep.com/imgs/polar-flex-membrana.jpg'},
-            { name: 'POLAR FLEX MEMBRANA POLIURETANICA <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-flex-membrana-poliuretanica.jpg'},
-            { name: 'POLAR FLEX MEMBRANA FIBRADA <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-flex-membrana-con-fibra.png'},
+            { name: 'POLAR COLOR <br><br> $55.000', category: 'Pintura', image: 'polar-latex-color.jpg' },
+            { name: 'POLAR INTERIOR MATE <br><br> $55.000', category: 'Pintura', image: 'polar-interior-nuevo.png'},
+            { name: 'POLAR SATINADO BLANCO <br><br> $55.000', category: 'Pintura', image: 'polar-satinado-nuevo.png'},
+            { name: 'POLAR INTERIOR-EXTERIOR <br><br> $55.000', category: 'Pintura', image: 'polar-interior-exterior-nuevo.png'},
+            { name: 'POLAR CIELO RAZOS <br><br> $55.000', category: 'Pintura', image: 'polar-cielorasos-nuevo.png'},
+            { name: 'POLAR FRENTES <br><br> $55.000', category: 'Pintura', image: 'polar-exterior-nuevo.png'},
+            { name: 'POLAR FLEX MUROS Y FRENTES <br><br> $55.000', category: 'Pintura', image: 'polar-flex-muros-y-frentes.jpg'},
+            { name: 'POLAR FLEX MUROS Y FRENTES POLIURETANICO <br><br> $55.000', category: 'Pintura', image: 'polar-flex-muros-y-frentes-poliuretanico.jpg'},
+            { name: 'POLAR FLEX MEMBRANA LIQUIDA <br><br> $55.000', category: 'Pintura', image: 'polar-flex-membrana.jpg'},
+            { name: 'POLAR FLEX MEMBRANA POLIURETANICA <br><br> $55.000', category: 'Pintura', image: 'polar-flex-membrana-poliuretanica.jpg'},
+            { name: 'POLAR FLEX MEMBRANA FIBRADA <br><br> $55.000', category: 'Pintura', image: 'polar-flex-membrana-con-fibra.png'},
 
             { name: 'AEROSOLES COLOR <br><br> $55.000', category: 'Pintura', image: 'https://www.dantepinturerias.com/wp-content/uploads/2020/02/aerosol-toke-1.jpg'},
 
-            { name: 'FIJADOR PARA PIEDRAS <br><br> $55.000', category: 'Exteriores', image: 'https://sanyojafep.com/imgs/fijador-piedras.png'},
+            { name: 'FIJADOR PARA PIEDRAS <br><br> $55.000', category: 'Exteriores', image: 'fijador-piedras.png'},
 
 
         ];
