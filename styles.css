@@ -1,7 +1,7 @@
 /* Estilo general para el header */
 
 header {
-    background: {color: #DAF7A6;}
+    background: linear-gradient(90deg, #ff9933, #ffc300);
     padding: 20px 15px;
     display: flex;
     align-items: center;
@@ -50,9 +50,10 @@ header {
 
 .menu {
     background-color: #ff6600;
+    width: 15vh;
     border: none;
     color: white;
-    padding: 10px 10px;
+    padding: 10px 0px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -62,15 +63,15 @@ header {
     cursor: pointer;
     border-radius: 10px;
     float: right;
-    margin-right: 0%;
-    margin-left: auto;
+    margin-left: 70%;
 }
 
 .menu-dos {
     background-color: #ff6600;
+    width: 12vh;
     border: none;
     color: white;
-    padding: 10px 15px;
+    padding: 10px 0px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -80,7 +81,7 @@ header {
     cursor: pointer;
     border-radius: 10px;
     float: right;
-    margin-right: 0%;
+    margin-left: 0;
 }
 
 .menu a {
@@ -106,7 +107,7 @@ header {
     color: #000000;
     font-family: 'Vegur', sans-serif;
     font-size: 1.2em;
-    padding: 10px 14px;
+    padding: 10px 15px;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
     align-items: center;
@@ -126,6 +127,10 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
+.main {
+    text-align: center;
+
 }
 
 .container {
@@ -154,7 +159,7 @@ body {
     box-sizing: border-box;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    min-height: 40vh; 
+    max-height: 40vh; 
     gap: 10px;
     margin-left: 0;
     margin-right: 0;
@@ -162,8 +167,7 @@ body {
 
 /* Columna Izquierda: Filtros */
 .filters {
-    width: 20%;
-    min-width: 40vh;
+    width: 25%;
     background: #F4F4F4;
     padding: 20px;
     border-bottom: 5px solid #ddd;
@@ -235,16 +239,18 @@ body {
 
 .products {
     width: 100%;
-    padding: 40px;
+    padding: 20px;
     box-sizing: border-box;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    min-height: 60vh; 
-    gap: 30px;
+    MIN-height: 60vh; 
+    gap: 15px;
+    color: #5e5e5e;
+    font-size: 9pt;
 }
 .product {
     border: 1px solid #ddd;
-    max-height: 30vh;  
+    height: 34vh;  
     border-radius: 5px;
     padding: 10px;
     text-align: center;
@@ -258,37 +264,38 @@ body {
 
 .product img {
     max-width: 100%;
-    max-height: 30vh;
-    height: 100%;
+    height: 25vh;
     border-radius: 5px;
 }
 
-.product-img {
-    height: 100vh;
-    border-radius: 5px;
-}
 
 .product-image {
     height: 100vh;
 }
 
+.hero-image {
+    height: 70vh;
+    width: 40%;
+    float: left;
+}
+
+.home-text {
+    text-align: center;
+    
+}
+
 .hero-img {
-    border-radius: 5px;
+    height: 70vh;
+    width: 70%;
+}
+
+.hero-img img {
     height: 100%;
     width: 100%;
 }
 
-.hero-image {
-    height: auto;
-    width: auto;
-    min-height: 40vh;
-    max-height: 70vh;
-    min-width: 30vh;
-    max-width: 40%;
-    float: left;
-}
-
 .product-description {
+    font-size: large;
     height: auto;
     width: 60%;
     float: right;
@@ -320,28 +327,19 @@ body {
     .hero {
         flex-wrap: wrap;
         height: auto;
-        widht: auto;
+        width: auto;
     }
 
     .hero-image {
         height: auto;
-        max-height: 30%;
         width: 100%;
-        max-width: 100%;
         margin-left: 0;
         margin-right: 0;
     }
 
     .hero-img {
-        height: auto;
-        width: auto;
-        margin-left: 0;
-        margin-right: 0;
-    }
-
-    .hero-img img {
-        height: auto;
-        width: auto;
+        height: 100%;
+        width: 100%;
         margin-left: 0;
         margin-right: 0;
     }
@@ -349,16 +347,20 @@ body {
     .hero-content {
         flex-direction: column;
         align-items: flex-start;
-        height: 100%;
+        height: auto;
     }
 
     .product-description {
+        flex-wrap: wrap;
         height: auto;
         width: 100%;
+        margin-left: 20%;
+        font-size: medium;
     }
 
     .servicios-image {
         height: auto;
+        min-height: 55vh;
         width: 100%;
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     }
@@ -388,10 +390,6 @@ body {
 
     .product h3 {
         font-size: 16px;
-    }
-
-    .text-main {
-        text-align: center;
     }
 }
 
@@ -475,15 +473,15 @@ body {
     }
 
     .menu {
+        width: 14vh;
         float: right;
-        margin-left: auto;
-        margin-right: 0%;
+        margin-left: 70%;
     }
 
     .menu-dos {
+        width: 14vh;
         float: right;
-        margin-left: auto;
-        margin-right: 0%;
+        margin-left: 70%;
     }
 
 
