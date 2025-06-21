@@ -23,7 +23,7 @@
 
             { name: 'ESMALTE SINTETICO <br><br> $55.000', category: 'Pintura', image: 'https://tersuave.com.ar/wp-content/uploads/sites/2/2024/11/TERSILUX-ESMALTE-SINTETICO-3en1-SATINADO.png' },
             { name: 'LATEX INTERIOR-EXTERIOR <br><br> $55.000', category: 'Pintura', image: 'LATEX-RIOBRA.JPG' },
-            { name: 'POLAR COLOR <br><br> $55.000', category: 'Pintura', image: 'polar-latex-color.jpg', link: 'polar-latex-color.html' },
+            { name: 'POLAR COLOR <br><br> $55.000', category: 'Pintura', image: 'polar-latex-color.jpg', link: 'polar-latex-color.html'},
             { name: 'POLAR INTERIOR MATE <br><br> $55.000', category: 'Pintura', image: 'polar-interior-nuevo.png'},
             { name: 'POLAR SATINADO BLANCO <br><br> $55.000', category: 'Pintura', image: 'polar-satinado-nuevo.png'},
             { name: 'POLAR INTERIOR-EXTERIOR <br><br> $55.000', category: 'Pintura', image: 'polar-interior-exterior-nuevo.png'},
