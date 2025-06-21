@@ -22,7 +22,7 @@
             { name: 'Tanque 2', category: 'Tanque de agua', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXh3YIiFxdGn-6EfgsSYJwf6vtPYQdZOxNrA&s' },
 
             { name: 'ESMALTE SINTETICO <br><br> $55.000', category: 'Pintura', image: 'https://tersuave.com.ar/wp-content/uploads/sites/2/2024/11/TERSILUX-ESMALTE-SINTETICO-3en1-SATINADO.png' },
-            { name: 'LATEX INTERIOR-EXTERIOR <br><br> $55.000', category: 'Pintura', image: 'latex-riobra.jpg' },
+            { name: 'LATEX INTERIOR-EXTERIOR <br><br> $55.000', category: 'Pintura', image: 'LATEX-RIOBRA.JPG' },
             { name: 'POLAR COLOR <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-latex-color.jpg' },
             { name: 'POLAR INTERIOR MATE <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-interior-nuevo.png'},
             { name: 'POLAR SATINADO BLANCO <br><br> $55.000', category: 'Pintura', image: 'https://www.sanyojafep.com/imgs/polar-satinado-nuevo.png'},
