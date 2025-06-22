@@ -424,6 +424,10 @@ body {
         grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     }
 
+    .container-colors {
+        width: 100%;
+    }
+    
     .cotizar-name {
         text-align: center;
         width: 100%;
