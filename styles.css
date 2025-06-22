@@ -409,6 +409,14 @@ body {
         height: auto;
     }
 
+    .row {
+        width100%;
+    }
+
+    .row-1 {
+        width100%;
+    }
+
     .product-description {
         flex-wrap: wrap;
         height: auto;
