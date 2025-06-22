@@ -414,7 +414,7 @@ body {
 
     .row {
         align-items: center;
-        width: 100%;
+        width: 80%;
         height: auto;
         flex-wrap: wrap;
         margin: 40px;
@@ -431,7 +431,7 @@ body {
     
     .row-1 {
         align-items: center;
-        width: 100%;
+        width: 80%;
         height: auto;
         flex-wrap: wrap;
         margin: 40px;
