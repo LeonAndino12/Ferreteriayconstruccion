@@ -489,6 +489,7 @@ body {
     .product {
         padding: 8px;
         height: 38vh;
+        width: auto;
 
     }
 
