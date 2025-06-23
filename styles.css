@@ -447,9 +447,18 @@ body {
         grid-column-gap: 20px;
         grid-row-gap: 15px;
     }
-    
+
+    .product-name {
+        margin-up: 4vh;
+        text-align: center;
+        width: 100%;
+        font-size: 20pt;
+        float: left;
+        font-weight: 700;
+    }    
     
     .product-description {
+        margin-up: 4vh;
         height: auto;
         width: 100%;
         margin-left: 20%;
