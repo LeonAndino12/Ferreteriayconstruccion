@@ -5,7 +5,7 @@
 
             { name: 'MASILLA MAS ENDUIDO <br><br> $55.000', category: 'Masillas', image: 'images/masilla-mas-enduido.jpg' },
             { name: 'MASILLA FORMULA POLIESTER <br><br> $55.000', category: 'Masillas', image: 'images/masilla-formula-poliester.jpg' },
-            { name: 'ENDUIDO PLASTICO <br><br> $55.000', category: 'Masillas', image: 'images/enduido-plastico' },
+            { name: 'ENDUIDO PLASTICO <br><br> $55.000', category: 'Masillas', image: 'images/enduido-plastico.jpg' },
 
             { name: 'Herramienta 1', category: 'Herramientas', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pZ68_ijMqTYEun9EXgF-tL_nkba1k1wnyA&s' },
                 
@@ -23,7 +23,7 @@
             { name: 'POLAR FLEX MEMBRANA POLIURETANICA <br><br> $55.000', category: 'Pintura', image: 'images/polar-flex-membrana-poliuretanica.jpg'},
             { name: 'POLAR FLEX MEMBRANA FIBRADA <br><br> $55.000', category: 'Pintura', image: 'images/polar-flex-membrana-con-fibra.png'},
 
-            { name: 'AEROSOLES COLOR <br><br> $55.000', category: 'Pintura', image: 'images/aerosol-toke-1'},
+            { name: 'AEROSOLES COLOR <br><br> $55.000', category: 'Pintura', image: 'images/aerosol-toke-1.jpg'},
 
             { name: 'FIJADOR PARA PIEDRAS <br><br> $55.000', category: 'Exteriores', image: 'images/fijador-piedras.png'},
 
