@@ -12,6 +12,7 @@
             { name: 'ESMALTE SINTETICO <br><br> $55.000', category: 'Pintura', image: 'images/TERSILUX-ESMALTE-SINTETICO-3en1-SATINADO.png' },
             { name: 'LATEX INTERIOR-EXTERIOR <br><br> $55.000', category: 'Pintura', image: 'images/LATEX-RIOBRA.JPG' },
             { name: 'POLAR COLOR <br><br> $55.000', category: 'Pintura', image: 'images/polar-latex-color.jpg', link: 'polar-latex-color.html'},
+            { name: 'POLAR COLOR SATINADO <br><br> $55.000', category: 'Pintura', image: 'images/polar-latex-color.jpg', link: 'polar-latex-color-satinado.html'},
             { name: 'POLAR INTERIOR MATE <br><br> $55.000', category: 'Pintura', image: 'images/polar-interior-nuevo.png'},
             { name: 'POLAR SATINADO BLANCO <br><br> $55.000', category: 'Pintura', image: 'images/polar-satinado-nuevo.png'},
             { name: 'POLAR INTERIOR-EXTERIOR <br><br> $55.000', category: 'Pintura', image: 'images/polar-interior-exterior-nuevo.png'},
