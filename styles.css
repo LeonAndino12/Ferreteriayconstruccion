@@ -427,7 +427,7 @@ body {
         text-align: center;
         gap: 0px;
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
         grid-column-gap: 20px;
         grid-row-gap: 15px;
     }
@@ -443,7 +443,7 @@ body {
         text-align: center;
         gap: 0px;
         display: grid;
-        grid-template-columns: repeat(auto-fill, minmax(210px, 1fr));
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
         grid-column-gap: 20px;
         grid-row-gap: 15px;
     }
