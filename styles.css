@@ -325,7 +325,8 @@ body {
 }
 
 .hero-image {
-    height: 80vh;
+    min-height: 40vh;
+    height: auto;
     width: 40%;
     float: left;
 }
@@ -336,8 +337,8 @@ body {
 }
 
 .hero-img {
-    height: 80%;
-    width: 80%;
+    height: 100%;
+    width: 100%;
 }
 
 .hero-img img {
@@ -347,7 +348,7 @@ body {
 
 .product-description {
     font-size: large;
-    height: 80vh;
+    height: auto;
     width: 50%;
     float: right;
     margin-left: 10%;
