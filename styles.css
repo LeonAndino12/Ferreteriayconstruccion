@@ -160,7 +160,7 @@ body {
 }
 
 .col-12 {
-    display: block;
+    display: grid;
     width: 100%;
     height: auto;
     text-align: center;
@@ -647,5 +647,12 @@ body {
         width: 30px;
         height: 30px;
         margin-right: 20px;
+    }
+}
+
+@media (max-width: 1024px) {
+
+    .products {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
     }
 }
