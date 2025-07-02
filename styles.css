@@ -500,8 +500,8 @@ body {
 @media (max-width: 480px) 
 
         .product {
-        width: 14vh;
-        height: 28vh;
+        width: auto;
+        height: auto;
     }
 
     .product img {
@@ -594,8 +594,8 @@ body {
     }
 
     .product {
-        width: 16vh;
-        height: 30vh;
+        width: auto;
+        height: auto;
     }
 
     .product img {
@@ -657,8 +657,8 @@ body {
 @media (max-width: 1024px) {
 
     .product {
-        width: 18vh;
-        height: 30vh;
+        width: auto;
+        height: auto;
     }
 
     .product img {
