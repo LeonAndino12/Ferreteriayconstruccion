@@ -50,7 +50,7 @@ header {
 
 .menu {
     background-color: #ff6600;
-    width: 15vh;
+    width: auto;
     border: none;
     color: white;
     padding: 10px 0px;
@@ -292,7 +292,7 @@ body {
     padding: 20px;
     box-sizing: border-box;
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
     MIN-height: 50vh; 
     gap: 30px;
     color: #5e5e5e;
@@ -314,7 +314,7 @@ body {
 }
 
 .product img {
-    width: 100%;
+    width: 20vh;
     height: 25vh;
     border-radius: 5px;
 }
@@ -506,6 +506,11 @@ body {
     .product h3 {
         font-size: 16px;
     }
+
+    .product img {
+    width: 18vh;
+    height: 22vh;
+    }
 }
 
 @media (max-width: 480px) {
@@ -515,6 +520,11 @@ body {
         width: 100%;
         order: 1;
         grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    }
+
+   .product img {
+        width: 16vh;
+        height: 20vh;
     }
     
     .filters button {
@@ -595,18 +605,15 @@ body {
         align-items: flex-start;
     }
 
+    .products {
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    }
+
     .menu {
-        width: 14vh;
+        width: auto;
         float: right;
-        margin-left: 70%;
+        margin-left: 65%;
     }
-
-    .menu-dos {
-        width: 14vh;
-        float: right;
-        margin-left: 70%;
-    }
-
 
     .logo {
         font-size: 1.2em;
