@@ -482,22 +482,16 @@ body {
 
     .product {
         padding: 8px;
-
+        height: auto;
         width: auto;
-
     }
 
     .product h3 {
         font-size: 16px;
     }
-
-    .product img {
-    width: 18vh;
-    height: 22vh;
-    }
 }
 
-@media (max-width: 480px) 
+@media (max-width: 480px) {
 
         .product {
         width: auto;
