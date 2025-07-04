@@ -18,7 +18,7 @@
             { name: 'POLAR INTERIOR-EXTERIOR <br><br> $55.000', category: 'Pintura', image: 'images/polar-interior-exterior-nuevo.png', link: 'polar-latex-interior-exterior-blanco-mate.html'},
             { name: 'POLAR CIELO RAZOS <br><br> $55.000', category: 'Pintura', image: 'images/polar-cielorasos-nuevo.png', link: 'polar-latex-cielorrasos.html'},
             { name: 'POLAR FRENTES <br><br> $55.000', category: 'Pintura', image: 'images/polar-exterior-nuevo.png', link: 'polar-latex-exterior-blanco-mate.html'},
-            { name: 'POLAR FLEX MUROS Y FRENTES <br><br> $55.000', category: 'Pintura', image: 'images/polar-flex-muros-y-frentes.jpg'},
+            { name: 'POLAR FLEX MUROS Y FRENTES <br><br> $55.000', category: 'Pintura', image: 'images/polar-flex-muros-y-frentes.jpg', link: 'polar-flex-muros-y-frentes.html'},
             { name: 'POLAR FLEX MUROS Y FRENTES POLIURETANICO <br><br> $55.000', category: 'Pintura', image: 'images/polar-flex-muros-y-frentes-poliuretanico.jpg'},
             { name: 'POLAR FLEX MEMBRANA LIQUIDA <br><br> $55.000', category: 'Pintura', image: 'images/polar-flex-membrana.jpg'},
             { name: 'POLAR FLEX MEMBRANA POLIURETANICA <br><br> $55.000', category: 'Pintura', image: 'images/polar-flex-membrana-poliuretanica.jpg'},
