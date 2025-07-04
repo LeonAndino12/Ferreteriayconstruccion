@@ -250,8 +250,8 @@ body {
 }
 .product {
     border: 1px solid #ddd;
-    width: 22vh;
-    height: 38vh;  
+    width: auto;
+    height: auto;  
     border-radius: 5px;
     padding: 12px;
     text-align: center;
@@ -362,8 +362,10 @@ body {
     }
 
     .hero-img {
-        height: 100%;
-        width: 100%;
+        align-items: center;
+        height: 70%;
+        width: 70%;
+        max-width: 60vh;
         margin-left: 0;
         margin-right: 0;
     }
