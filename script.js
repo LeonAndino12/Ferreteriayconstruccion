@@ -1,7 +1,7 @@
         const products = [
 
-            { name: 'MEMBRANA EN PASTA <br><br> $55.000', category: 'Membrana', image: 'images/recuplast-tradicional-para-techos-membrana-en-pasta.jpg', link: 'recuplast-tradicional-mebrana-en-pasta.html'},,
-            { name: 'VERNIER SUPERCAPA <br><br> $55.000', category: 'Membrana', image: 'images/vernier-supercapa.jpg' },
+            { name: 'MEMBRANA EN PASTA <br><br> $55.000', category: 'Membrana', image: 'images/recuplast-tradicional-para-techos-membrana-en-pasta.jpg', link: 'recuplast-tradicional-mebrana-en-pasta.html'},
+            { name: 'VERNIER SUPERCAPA <br><br> $55.000', category: 'Membrana', image: 'images/vernier-supercapa.jpg', link: 'supercapa-vernier-membrana-poliuretanica.html'},
 
             { name: 'MASILLA MAS ENDUIDO <br><br> $55.000', category: 'Masillas', image: 'images/masilla-mas-enduido.jpg' },
             { name: 'MASILLA FORMULA POLIESTER <br><br> $55.000', category: 'Masillas', image: 'images/masilla-formula-poliester.jpg' },
