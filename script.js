@@ -5,7 +5,7 @@
 
             { name: 'MASILLA MAS ENDUIDO <br><br> $32.500', category: 'Masillas', image: 'images/masilla-mas-enduido.jpg', link: 'masilla-mas-enduido.html'},
             { name: 'MASILLA FORMULA POLIESTER <br><br> $55.000', category: 'Masillas', image: 'images/masilla-formula-poliester.jpg' },
-            { name: 'ENDUIDO PLASTICO <br><br> $55.000', category: 'Masillas', image: 'images/enduido-plastico.jpg' },
+            { name: 'ENDUIDO PLASTICO <br><br> $80.000', category: 'Masillas', image: 'images/enduido-plastico.jpg', link: 'enduido-plastico.html'},
 
             { name: 'Herramienta 1', category: 'Herramientas', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pZ68_ijMqTYEun9EXgF-tL_nkba1k1wnyA&s' },
                 
@@ -55,6 +55,7 @@
 
         // Render all products by default
         renderProducts('all');
+
 
 
 
