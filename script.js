@@ -11,18 +11,18 @@
                 
             { name: 'ESMALTE SINTETICO <br><br> $115.000', category: 'Pintura', image: 'images/TERSILUX-ESMALTE-SINTETICO-3en1-SATINADO.png', link: 'TERSILUX-ESMALTE-SINTETICO-3en1-SATINADO.html' },
             { name: 'LATEX INTERIOR-EXTERIOR <br><br> $00.000', category: 'Pintura', image: 'images/LATEX-RIOBRA.JPG' },
-            { name: 'POLAR COLOR <br><br> $00.000', category: 'Pintura', image: 'images/polar-latex-color.jpg', link: 'polar-latex-color.html'},
-            { name: 'POLAR COLOR SATINADO <br><br> $00.000', category: 'Pintura', image: 'images/polar-latex-color.jpg', link: 'polar-latex-color-satinado.html'},
-            { name: 'POLAR INTERIOR MATE <br><br> $00.000', category: 'Pintura', image: 'images/polar-interior-nuevo.png', link: 'polar-latex-interior-blanco-mate.html'},
-            { name: 'POLAR SATINADO BLANCO <br><br> $00.000', category: 'Pintura', image: 'images/polar-satinado-nuevo.png', link: 'polar-latex-interior-satinado-blanco-mate.html'},
-            { name: 'POLAR INTERIOR-EXTERIOR <br><br> $00.000', category: 'Pintura', image: 'images/polar-interior-exterior-nuevo.png', link: 'polar-latex-interior-exterior-blanco-mate.html'},
-            { name: 'POLAR CIELO RAZOS <br><br> $00.000', category: 'Pintura', image: 'images/polar-cielorasos-nuevo.png', link: 'polar-latex-cielorrasos.html'},
-            { name: 'POLAR FRENTES <br><br> $00.000', category: 'Pintura', image: 'images/polar-exterior-nuevo.png', link: 'polar-latex-exterior-blanco-mate.html'},
-            { name: 'POLAR FLEX MUROS Y FRENTES <br><br> $00.000', category: 'Pintura', image: 'images/polar-flex-muros-y-frentes.jpg', link: 'polar-flex-muros-y-frentes.html'},
-            { name: 'POLAR FLEX MUROS Y FRENTES POLIURETANICO <br><br> $00.000', category: 'Pintura', image: 'images/polar-flex-muros-y-frentes-poliuretanico.jpg'},
-            { name: 'POLAR FLEX MEMBRANA LIQUIDA <br><br> $00.000', category: 'Pintura', image: 'images/polar-flex-membrana.jpg'},
-            { name: 'POLAR FLEX MEMBRANA POLIURETANICA <br><br> $00.000', category: 'Pintura', image: 'images/polar-flex-membrana-poliuretanica.jpg'},
-            { name: 'POLAR FLEX MEMBRANA FIBRADA <br><br> $00.000', category: 'Pintura', image: 'images/polar-flex-membrana-con-fibra.png'},
+            { name: 'POLAR COLOR <br><br> $115.000', category: 'Pintura', image: 'images/polar-latex-color.jpg', link: 'polar-latex-color.html'},
+            { name: 'POLAR COLOR SATINADO <br><br> $125.000', category: 'Pintura', image: 'images/polar-latex-color.jpg', link: 'polar-latex-color-satinado.html'},
+            { name: 'POLAR INTERIOR MATE <br><br> $125.000', category: 'Pintura', image: 'images/polar-interior-nuevo.png', link: 'polar-latex-interior-blanco-mate.html'},
+            { name: 'POLAR SATINADO BLANCO <br><br> $125.000', category: 'Pintura', image: 'images/polar-satinado-nuevo.png', link: 'polar-latex-interior-satinado-blanco-mate.html'},
+            { name: 'POLAR INTERIOR-EXTERIOR <br><br> $160.000', category: 'Pintura', image: 'images/polar-interior-exterior-nuevo.png', link: 'polar-latex-interior-exterior-blanco-mate.html'},
+            { name: 'POLAR CIELO RAZOS <br><br> $95.000', category: 'Pintura', image: 'images/polar-cielorasos-nuevo.png', link: 'polar-latex-cielorrasos.html'},
+            { name: 'POLAR FRENTES <br><br> $180.000', category: 'Pintura', image: 'images/polar-exterior-nuevo.png', link: 'polar-latex-exterior-blanco-mate.html'},
+            { name: 'POLAR FLEX MUROS Y FRENTES <br><br> $175.000', category: 'Pintura', image: 'images/polar-flex-muros-y-frentes.jpg', link: 'polar-flex-muros-y-frentes.html'},
+            { name: 'POLAR FLEX MUROS Y FRENTES POLIURETANICO <br><br> $180.000', category: 'Pintura', image: 'images/polar-flex-muros-y-frentes-poliuretanico.jpg', link: 'polar-flex-muros-y-frentes-poliuretanico.html'},
+            { name: 'POLAR FLEX MEMBRANA LIQUIDA <br><br> $155.000', category: 'Pintura', image: 'images/polar-flex-membrana.jpg', link: 'polar-flex-membrana.html'},
+            { name: 'POLAR FLEX MEMBRANA POLIURETANICA <br><br> $175.000', category: 'Pintura', image: 'images/polar-flex-membrana-poliuretanica.jpg', link: 'polar-flex-membrana-poliuretanica.html'},
+            { name: 'POLAR FLEX MEMBRANA FIBRADA <br><br> $165.000', category: 'Pintura', image: 'images/polar-flex-membrana-con-fibra.png', link: 'polar-flex-membrana-con-fibra.html'},
 
             { name: 'AEROSOLES COLOR <br><br> $15.500', category: 'Pintura', image: 'images/aerosol-toke-1.jpg', link: 'aerosol-toke-1.html'},
 
@@ -55,6 +55,7 @@
 
         // Render all products by default
         renderProducts('all');
+
 
 
 
