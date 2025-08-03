@@ -24,7 +24,7 @@
             { name: 'POLAR FLEX MEMBRANA POLIURETANICA <br><br> $00.000', category: 'Pintura', image: 'images/polar-flex-membrana-poliuretanica.jpg'},
             { name: 'POLAR FLEX MEMBRANA FIBRADA <br><br> $00.000', category: 'Pintura', image: 'images/polar-flex-membrana-con-fibra.png'},
 
-            { name: 'AEROSOLES COLOR <br><br> $00.000', category: 'Pintura', image: 'images/aerosol-toke-1.jpg' link: 'aerosol-toke-1.html'},
+            { name: 'AEROSOLES COLOR <br><br> $15.500', category: 'Pintura', image: 'images/aerosol-toke-1.jpg' link: 'aerosol-toke-1.html'},
 
             { name: 'FIJADOR PARA PIEDRAS <br><br> $55.000', category: 'Exteriores', image: 'images/fijador-piedras.png' link: 'fijador-piedras.html'},
 
@@ -55,5 +55,6 @@
 
         // Render all products by default
         renderProducts('all');
+
 
 
