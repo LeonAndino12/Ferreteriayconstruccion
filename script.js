@@ -9,7 +9,7 @@
 
             { name: 'Herramienta 1', category: 'Herramientas', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0pZ68_ijMqTYEun9EXgF-tL_nkba1k1wnyA&s' },
                 
-            { name: 'ESMALTE SINTETICO <br><br> $115.000', category: 'Pintura', image: 'images/TERSILUX-ESMALTE-SINTETICO-3en1-SATINADO.png' },
+            { name: 'ESMALTE SINTETICO <br><br> $115.000', category: 'Pintura', image: 'images/TERSILUX-ESMALTE-SINTETICO-3en1-SATINADO.png', link: 'TERSILUX-ESMALTE-SINTETICO-3en1-SATINADO.html' },
             { name: 'LATEX INTERIOR-EXTERIOR <br><br> $00.000', category: 'Pintura', image: 'images/LATEX-RIOBRA.JPG' },
             { name: 'POLAR COLOR <br><br> $00.000', category: 'Pintura', image: 'images/polar-latex-color.jpg', link: 'polar-latex-color.html'},
             { name: 'POLAR COLOR SATINADO <br><br> $00.000', category: 'Pintura', image: 'images/polar-latex-color.jpg', link: 'polar-latex-color-satinado.html'},
@@ -55,6 +55,7 @@
 
         // Render all products by default
         renderProducts('all');
+
 
 
 
